@@ -21,8 +21,8 @@ export const Input = styled.input`
   padding: 0 .5rem;
   border-radius: .25rem 0 0 .25rem
 
-  &:focus,
-  &:active {
+  focus,
+  active {
     outline: none;
     box-shadow: none;
   }
